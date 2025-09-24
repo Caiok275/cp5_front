@@ -1,0 +1,16 @@
+{
+    "produto":[
+        {
+            "id":1,
+            "titulo": "Teclado",
+            "quantidade": 2,
+            "preco": 120.0
+        },
+        {
+            "id":2,
+            "titulo": "Mouse",
+            "quantidade":5,
+            "preco": 110.5
+        }
+    ]
+}
