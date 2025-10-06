@@ -1,16 +1,20 @@
 {
-    "produto":[
-        {
-            "id":1,
-            "titulo": "Teclado",
-            "quantidade": 2,
-            "preco": 120.0
-        },
-        {
-            "id":2,
-            "titulo": "Mouse",
-            "quantidade":5,
-            "preco": 110.5
-        }
-    ]
+  "funcionario": [
+    {
+      "id": 1,
+      "nome": "Caio",
+      "cargo": "Desenvolvedor Full Stack",
+      "setor": "TI",
+      "turno": "Matutino",
+      "salario": 15000
+    },
+    {
+      "id": 2,
+      "nome": "Larissa",
+      "cargo": "Analista de RH",
+      "setor": "Recursos Humanos",
+      "turno": "Vespertino",
+      "salario": 7200
+    }
+  ]
 }
